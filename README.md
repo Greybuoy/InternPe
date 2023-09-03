@@ -1,8 +1,7 @@
 # InternPe
 This is a simple task given by InternPe
 Rock Paper Scissors Game(Rps)
-Introduction
-This is a simple text-based Rock Paper Scissors game written in Java. In this game, you play against the computer by choosing one of the three options: rock, paper, or scissors. The computer also randomly selects one of these options. The winner of each round is determined based on the rules of the game: rock beats scissors, scissors beat paper, and paper beats rock. The game continues until you choose to quit.
+It is a  text-based Rock Paper Scissors game written in Java. In this game, you play against the computer by choosing one of the three options: rock, paper, or scissors. The computer also randomly selects one of these options. The winner of each round is determined based on the rules of the game: rock beats scissors, scissors beat paper, and paper beats rock. The game continues until you choose to quit.
 
 How to Play
 Run the program in a Java environment.
